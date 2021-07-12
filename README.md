@@ -2,7 +2,7 @@
 
 ## Category
 1. [Deep Learning from Scratch(DLS)](https://github.com/minji2744/study#1-deep-learning-from-scratch)
-2. [CS231n](https://github.com/minji2744/study#cs231n)
+2. [CS231n](https://github.com/minji2744/study#2-cs231n)
 
 <br/>
 
