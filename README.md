@@ -1,8 +1,8 @@
 # Studying ML,DL,
 
 ## Category
-1. Deep Learning from Scratch(DLS)
-2. CS231n
+1. [Deep Learning from Scratch(DLS)](https://github.com/minji2744/study/README.md/#deep-learning-from-scratch)
+2. [CS231n](https://github.com/minji2744/study/README.md/#cs231n)
 
 <br/>
 
@@ -39,4 +39,10 @@ w와 세타는 가중치라고 부르며, w 는 입력의 영향력과 관련이
     ch3. 신경망
 
 
+<hr/>
 
+## 2. CS231n
+> stanford 의 cs231n 강의를 수강한 내용을 정리합니다.
+
+     lecture 2.
+Image Classify.
