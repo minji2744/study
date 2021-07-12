@@ -26,4 +26,4 @@ w와 세타는 가중치라고 부르며, w 는 입력의 영향력과 관련이
 밑바닥부터 시작하는 딥러닝(줄여서, 밑시딥)은 이렇게 인공 신경망의 아주아주 밑바닥이라고 볼 수 있는 퍼셉트론에서부터 이야기를 시작합니다.      
 퍼셉트론은 몇십년 전에 등장한 것으로 인공지능의 역사가 길다는 것을 확인해볼 수 있었습니다.      
 
-[주피터노트북으로 구현한 "퍼셉트론(perceptron)"](perceptron.ipynb)
+[주피터노트북으로 구현한 "퍼셉트론(perceptron)"](https://github.com/minji2744/study/blob/d4b25f6067ef05f5da9613f46b24b2332aaed46c/Deep%20Learning%20from%20Scratch(DLS)/perceptron.ipynb)
