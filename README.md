@@ -33,6 +33,8 @@ w와 세타는 가중치라고 부르며, w 는 입력의 영향력과 관련이
 
 [주피터노트북으로 구현한 "퍼셉트론(perceptron)"](https://github.com/minji2744/study/blob/d4b25f6067ef05f5da9613f46b24b2332aaed46c/Deep%20Learning%20from%20Scratch(DLS)/perceptron.ipynb)
 
+<br/>
+
 `ch3. 신경망`
 
 
