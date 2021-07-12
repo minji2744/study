@@ -1,8 +1,8 @@
 # Studying ML,DL,
 
 ## Category
-1. [Deep Learning from Scratch(DLS)](https://github.com/minji2744/study/README.md/#deep-learning-from-scratch)
-2. [CS231n](https://github.com/minji2744/study/README.md/#cs231n)
+1. [Deep Learning from Scratch(DLS)](https://github.com/minji2744/study#1-deep-learning-from-scratch)
+2. [CS231n](https://github.com/minji2744/study#cs231n)
 
 <br/>
 
