@@ -1,5 +1,9 @@
 # study
 
+## Category
+1. Deep Learning from Scratch(DLS)
+2. CS231n
+
 ## 1. Deep Learning from Scratch
 밑바닥부터 시작하는 딥러닝 책을 읽으면서 정리합니다.  
 <hr/>
