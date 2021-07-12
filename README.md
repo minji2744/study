@@ -1,4 +1,4 @@
-# study
+# Studying ML,DL,
 
 ## Category
 1. Deep Learning from Scratch(DLS)
